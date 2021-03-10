@@ -1,0 +1,13 @@
+C:\Users\Pichau\Desktop\RepositorioProjetos\ProjetoNoGit\ProjetoNoGit\bin\Debug\netcoreapp3.1\ProjetoNoGit.exe
+C:\Users\Pichau\Desktop\RepositorioProjetos\ProjetoNoGit\ProjetoNoGit\bin\Debug\netcoreapp3.1\ProjetoNoGit.deps.json
+C:\Users\Pichau\Desktop\RepositorioProjetos\ProjetoNoGit\ProjetoNoGit\bin\Debug\netcoreapp3.1\ProjetoNoGit.runtimeconfig.json
+C:\Users\Pichau\Desktop\RepositorioProjetos\ProjetoNoGit\ProjetoNoGit\bin\Debug\netcoreapp3.1\ProjetoNoGit.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\RepositorioProjetos\ProjetoNoGit\ProjetoNoGit\bin\Debug\netcoreapp3.1\ProjetoNoGit.dll
+C:\Users\Pichau\Desktop\RepositorioProjetos\ProjetoNoGit\ProjetoNoGit\bin\Debug\netcoreapp3.1\ProjetoNoGit.pdb
+C:\Users\Pichau\Desktop\RepositorioProjetos\ProjetoNoGit\ProjetoNoGit\obj\Debug\netcoreapp3.1\ProjetoNoGit.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\RepositorioProjetos\ProjetoNoGit\ProjetoNoGit\obj\Debug\netcoreapp3.1\ProjetoNoGit.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\RepositorioProjetos\ProjetoNoGit\ProjetoNoGit\obj\Debug\netcoreapp3.1\ProjetoNoGit.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\RepositorioProjetos\ProjetoNoGit\ProjetoNoGit\obj\Debug\netcoreapp3.1\ProjetoNoGit.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\RepositorioProjetos\ProjetoNoGit\ProjetoNoGit\obj\Debug\netcoreapp3.1\ProjetoNoGit.dll
+C:\Users\Pichau\Desktop\RepositorioProjetos\ProjetoNoGit\ProjetoNoGit\obj\Debug\netcoreapp3.1\ProjetoNoGit.pdb
+C:\Users\Pichau\Desktop\RepositorioProjetos\ProjetoNoGit\ProjetoNoGit\obj\Debug\netcoreapp3.1\ProjetoNoGit.genruntimeconfig.cache
