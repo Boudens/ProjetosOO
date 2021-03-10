@@ -1,0 +1,13 @@
+C:\Users\Pichau\Desktop\RepositorioProjetos\ProjetoCarro\ProjetoCarro\bin\Debug\netcoreapp3.1\ProjetoCarro.exe
+C:\Users\Pichau\Desktop\RepositorioProjetos\ProjetoCarro\ProjetoCarro\bin\Debug\netcoreapp3.1\ProjetoCarro.deps.json
+C:\Users\Pichau\Desktop\RepositorioProjetos\ProjetoCarro\ProjetoCarro\bin\Debug\netcoreapp3.1\ProjetoCarro.runtimeconfig.json
+C:\Users\Pichau\Desktop\RepositorioProjetos\ProjetoCarro\ProjetoCarro\bin\Debug\netcoreapp3.1\ProjetoCarro.runtimeconfig.dev.json
+C:\Users\Pichau\Desktop\RepositorioProjetos\ProjetoCarro\ProjetoCarro\bin\Debug\netcoreapp3.1\ProjetoCarro.dll
+C:\Users\Pichau\Desktop\RepositorioProjetos\ProjetoCarro\ProjetoCarro\bin\Debug\netcoreapp3.1\ProjetoCarro.pdb
+C:\Users\Pichau\Desktop\RepositorioProjetos\ProjetoCarro\ProjetoCarro\obj\Debug\netcoreapp3.1\ProjetoCarro.csprojAssemblyReference.cache
+C:\Users\Pichau\Desktop\RepositorioProjetos\ProjetoCarro\ProjetoCarro\obj\Debug\netcoreapp3.1\ProjetoCarro.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\RepositorioProjetos\ProjetoCarro\ProjetoCarro\obj\Debug\netcoreapp3.1\ProjetoCarro.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\RepositorioProjetos\ProjetoCarro\ProjetoCarro\obj\Debug\netcoreapp3.1\ProjetoCarro.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\RepositorioProjetos\ProjetoCarro\ProjetoCarro\obj\Debug\netcoreapp3.1\ProjetoCarro.dll
+C:\Users\Pichau\Desktop\RepositorioProjetos\ProjetoCarro\ProjetoCarro\obj\Debug\netcoreapp3.1\ProjetoCarro.pdb
+C:\Users\Pichau\Desktop\RepositorioProjetos\ProjetoCarro\ProjetoCarro\obj\Debug\netcoreapp3.1\ProjetoCarro.genruntimeconfig.cache
